@@ -8,4 +8,11 @@
         <item>Bolt</item>
         <item>Other</item>
     </string-array>
+    <string-array name="filter_options">
+    <item>All</item>
+    <item>Nearby</item>
+    <item>Police</item>
+    <item>Safe Zones</item>
+    <item>High Risk</item>
+</string-array>
 </resources>
