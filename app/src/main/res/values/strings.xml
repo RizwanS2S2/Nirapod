@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Nirapod</string>
+    <string name="area_status">Area Status</string>
+    <string name="arrow_right">Arrow Right</string>
+    <string name="sos_alert">SOS Alert</string>
+    <string name="report_crime">Report Crime</string>
+    <string name="safety_map">Safety Map</string>
+    <string name="police_contact">Police Contact</string>
+    <string name="legal_help">Legal Help</string>
 
     <string-array name="sort_options">
         <item>Recommended</item>
