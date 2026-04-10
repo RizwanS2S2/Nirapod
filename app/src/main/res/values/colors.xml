@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-
+<color name="blue_400">#42A5F5</color>
    <color name="colorPrimary">#2196F3</color>
         <color name="white_90">#E6FFFFFF</color>
      <color name="purple_50">#F5F3FF</color>
